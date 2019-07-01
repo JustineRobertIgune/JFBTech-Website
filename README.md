@@ -1,2 +1,2 @@
 # JFBTech-Website
-A simple static website for JFBTech Uganda Ltd
+A simple static html & css website for JFBTech Uganda Ltd
